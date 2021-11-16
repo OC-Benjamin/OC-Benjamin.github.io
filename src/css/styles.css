@@ -342,4 +342,35 @@ footer .sponsor {
   }
 }
 
+.movies-page h2 {
+  text-align: center;
+  color: #2c4444;
+  margin: 50px 0;
+}
+
+.movies-page .day {
+  display: flex;
+  margin: 50px;
+  justify-content: space-around;
+}
+
+.movies-page .day .movie-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 25px;
+}
+
+.movies-page .day .movie-card a {
+  text-decoration: none;
+  color: #2c4444;
+  font-size: 20px;
+}
+
+@media (max-width: 772px) {
+  .day {
+    flex-direction: column;
+  }
+}
+
 /*# sourceMappingURL=styles.css.map */
