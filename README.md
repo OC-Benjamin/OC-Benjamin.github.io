@@ -1,13 +1,16 @@
 # P3-Festival
 Maquette html/css du P3 OC-Symfony
 
-##Afficher une page :
+Rendez-vous sur https://oc-benjamin.github.io pour voir la maquette.
+
+## Afficher une page :
 
 Ouvrez simplement le fichier maPage.html dans un navigateur.
 
 
-##Modifier le style
-###Installation
+## Modifier le style
+
+### Installation
 ```npm install```
 
 Faire vos modifications
